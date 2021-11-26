@@ -8,7 +8,8 @@ Full explanation of this theory is in this e-book:
 
 <br>
 
-![cover](https://raw.githubusercontent.com/joeganiomego/AIandR_01/main/TAIandR_Cover_01_compressed.jpg)
+
+<kbd> <img src="https://raw.githubusercontent.com/joeganiomego/AIandR_01/main/TAIandR_Cover_01_compressed.jpg" /> </kbd>
 
 
 <br>
